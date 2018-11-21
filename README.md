@@ -21,4 +21,4 @@ tiny('Do the thing')
 
 ## License
 
-Open source [MIT License](LICENSE.md)
+Open source [MIT License](LICENSE.md) 
